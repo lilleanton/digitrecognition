@@ -11,3 +11,7 @@ The MNIST dataset is not provided in this repository, and must be downloaded fro
 
 ## Results
 The attempted networks achieved an 92-95% accuracy on the MNIST testing dataset.
+
+![test](https://user-images.githubusercontent.com/119974909/210239419-1617b31e-197c-4159-8458-362a403298d5.gif)
+
+_Example of a network tested on `drawMode()` in `draw.py`_
